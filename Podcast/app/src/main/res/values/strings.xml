@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Podcast</string>
+    <string name="login">Login</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="register">Register new account</string>
+    <string name="logo">LOGO</string>
+    <string name="episodic_series_of_digital_audio">Episodic series of digital audio.</string>
+    <string name="email_hint">E-mail address</string>
+    <string name="password_hint">Password</string>
+    <string name="forgot_passwd">Forgot password?</string>
+    <string name="icon_email">icon email</string>
+    <string name="icon_key">icon key</string>
 </resources>
