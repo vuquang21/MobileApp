@@ -7,7 +7,17 @@
     <string name="episodic_series_of_digital_audio">Episodic series of digital audio.</string>
     <string name="email_hint">E-mail address</string>
     <string name="password_hint">Password</string>
-    <string name="forgot_passwd">Forgot password?</string>
+    <string name="forgot_passwd"><u>Forgot password?</u></string>
     <string name="icon_email">icon email</string>
     <string name="icon_key">icon key</string>
+    <string name="user_avt">user_avt</string>
+    <string-array name="hamburger_menu_setting">
+        <item>Browse</item>
+        <item>Subscribed</item>
+        <item>Favorites</item>
+        <item>History</item>
+        <item>Payment</item>
+        <item>Account settings</item>
+
+    </string-array>
 </resources>

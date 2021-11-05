@@ -142,6 +142,8 @@
                     android:textColor="@color/white"
                     android:textSize="16sp" />
 
+                <!--reset password -->
+
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -149,7 +151,8 @@
                     android:layout_marginTop="75dp"
                     android:text="@string/forgot_passwd"
                     android:textColor="@color/grey"
-                    android:textSize="16sp" />
+                    android:textSize="16sp"
+                    />
             </RelativeLayout>
         </LinearLayout>
 
