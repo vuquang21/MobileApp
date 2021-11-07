@@ -11,6 +11,7 @@
     <string name="icon_email">icon email</string>
     <string name="icon_key">icon key</string>
     <string name="user_avt">user_avt</string>
+    <string name="icon">icon</string>
     <string-array name="hamburger_menu_setting">
         <item>Browse</item>
         <item>Subscribed</item>
