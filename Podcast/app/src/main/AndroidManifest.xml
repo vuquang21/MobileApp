@@ -28,6 +28,9 @@
         <activity
             android:name=".Browse_Topics"
             android:exported="true" />
+        <activity
+            android:name=".Browse_Podcasts"
+            android:exported="true" />
     </application>
 
 </manifest>

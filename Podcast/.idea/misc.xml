@@ -42,15 +42,19 @@
         <entry key="..\:/DoAnMobileApp/MobileApp/Podcast/app/src/main/res/drawable/ic_logout.xml" value="0.1" />
         <entry key="..\:/DoAnMobileApp/MobileApp/Podcast/app/src/main/res/drawable/ic_mail.xml" value="0.1" />
         <entry key="..\:/DoAnMobileApp/MobileApp/Podcast/app/src/main/res/drawable/ic_payments.xml" value="0.1" />
+        <entry key="..\:/DoAnMobileApp/MobileApp/Podcast/app/src/main/res/drawable/ic_play.xml" value="0.1" />
+        <entry key="..\:/DoAnMobileApp/MobileApp/Podcast/app/src/main/res/drawable/ic_pod_on.xml" value="0.1" />
         <entry key="..\:/DoAnMobileApp/MobileApp/Podcast/app/src/main/res/drawable/ic_podcast.xml" value="0.1" />
         <entry key="..\:/DoAnMobileApp/MobileApp/Podcast/app/src/main/res/drawable/ic_search.xml" value="0.1" />
         <entry key="..\:/DoAnMobileApp/MobileApp/Podcast/app/src/main/res/drawable/ic_settings.xml" value="0.1" />
         <entry key="..\:/DoAnMobileApp/MobileApp/Podcast/app/src/main/res/drawable/ic_subscribed.xml" value="0.1" />
+        <entry key="..\:/DoAnMobileApp/MobileApp/Podcast/app/src/main/res/drawable/ic_time.xml" value="0.1" />
         <entry key="..\:/DoAnMobileApp/MobileApp/Podcast/app/src/main/res/drawable/ic_topic_on.xml" value="0.1" />
         <entry key="..\:/DoAnMobileApp/MobileApp/Podcast/app/src/main/res/drawable/second_background.xml" value="0.1" />
         <entry key="..\:/DoAnMobileApp/MobileApp/Podcast/app/src/main/res/drawable/text_input.xml" value="0.1" />
         <entry key="..\:/DoAnMobileApp/MobileApp/Podcast/app/src/main/res/drawable/user_shape.xml" value="0.1" />
-        <entry key="..\:/DoAnMobileApp/MobileApp/Podcast/app/src/main/res/layout/browse_categories.xml" value="0.18" />
+        <entry key="..\:/DoAnMobileApp/MobileApp/Podcast/app/src/main/res/layout/browse_categories.xml" value="0.15" />
+        <entry key="..\:/DoAnMobileApp/MobileApp/Podcast/app/src/main/res/layout/browse_podcasts.xml" value="0.12" />
         <entry key="..\:/DoAnMobileApp/MobileApp/Podcast/app/src/main/res/layout/browse_topics.xml" value="0.25" />
         <entry key="..\:/DoAnMobileApp/MobileApp/Podcast/app/src/main/res/layout/login.xml" value="0.20416666666666666" />
         <entry key="..\:/MyFolder/MobileApp/MobileApp/Podcast/app/src/main/res/drawable-v24/ic_avt_foreground.xml" value="0.18645833333333334" />
