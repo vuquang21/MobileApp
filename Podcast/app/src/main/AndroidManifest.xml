@@ -31,6 +31,9 @@
         <activity
             android:name=".Browse_Podcasts"
             android:exported="true" />
+        <activity
+            android:name=".Browse_Authors"
+            android:exported="true" />
     </application>
 
 </manifest>
