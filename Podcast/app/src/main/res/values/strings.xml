@@ -4,6 +4,16 @@
     <string name="login_with_facebook">Login with Facebook</string>
     <string name="register">Register new account</string>
     <string name="logo">LOGO</string>
+    <string name="browse">Browse</string>
+    <string name="robert">Robert</string>
+    <string name="categories">Categories</string>
+    <string name="textopic1">Positive psychology and our motivations</string>
+    <string name="textopic2">At massa nulla ultricies aliquam aenean lacus</string>
+    <string name="textopic3">Eget suspendisse sem posuere mauris ligula</string>
+    <string name="textopic4">Id sed urna cursus sed felis lacus gravida</string>
+    <string name="topic4">Topics(4)</string>
+    <string name="author">Authors: 124</string>
+    <string name="pod">Podcasts: 7 286</string>
     <string name="episodic_series_of_digital_audio">Episodic series of digital audio.</string>
     <string name="email_hint">E-mail address</string>
     <string name="password_hint">Password</string>
