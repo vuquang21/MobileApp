@@ -1,2 +1,3 @@
-package com.example.podcast;public class NewSelectedItem {
+package com.example.podcast;
+public class NewSelectedItem {
 }
